@@ -1,0 +1,101 @@
+﻿Student_ID,Age,Gender,Weight_kg,Height_cm,Goal,Workout_Plan,Nutrition_Suggestion,Daily_Steps,Privacy_Level
+1,20,M,70,175,Weight Loss,Cardio + Strength,High Protein,8000,Medium
+2,22,F,55,NaN,Muscle Gain,Strength Training,Balanced Diet,6000,High
+3,NaN,F,62,162,Fitness Maintenance,Yoga,Balanced Diet,NaN,Low
+4,21,M,NaN,180,Endurance,Cardio,High Carbs,10000,Medium
+5,23,F,58,165,Weight Loss,HIIT,Low Calorie,NaN,Medium
+6,24,F,NaN,168,Muscle Gain,Strength + Flexibility,High Protein,7000,High
+7,19,M,75,170,Endurance,Cardio,Balanced Diet,5000,Low
+8,NaN,F,61,NaN,Fitness Maintenance,Yoga,Low Sugar,NaN,Medium
+9,22,M,80,178,Weight Loss,Cardio,"High Protein, Low Fat",12000,High
+10,20,F,60,160,Endurance,Running,High Carbs,8500,Medium
+11,23,NaN,68,167,Muscle Gain,Strength,Balanced Diet,9000,Low
+12,21,M,NaN,172,Weight Loss,HIIT + Cardio,High Protein,NaN,Medium
+13,22,M,78,180,Muscle Gain,Strength,High Protein,9500,High
+14,19,F,53,158,Weight Loss,Cardio + Yoga,Low Calorie,11000,Medium
+15,NaN,M,72,172,Fitness Maintenance,Cardio,Balanced Diet,7500,Low
+16,20,F,60,NaN,Endurance,Running,High Carbs,8000,Medium
+17,21,M,68,169,Muscle Gain,Strength + Cardio,High Protein,7800,High
+18,23,NaN,NaN,175,Weight Loss,HIIT,Low Sugar,NaN,Low
+19,20,F,57,163,Endurance,Cardio + Flexibility,Balanced Diet,8800,Medium
+20,22,M,74,176,Muscle Gain,Strength + Yoga,"High Protein, Low Sugar",8900,High
+21,19,F,55,162,Weight Loss,Cardio,Low Calorie,9500,Medium
+22,25,M,85,182,Endurance,Running + Cardio,Balanced Diet,11000,Low
+23,21,F,59,165,Fitness Maintenance,Yoga + Flexibility,Balanced Diet,8700,Medium
+24,22,M,79,174,Muscle Gain,Strength + Flexibility,High Protein,8200,High
+25,20,F,54,160,Weight Loss,Cardio + HIIT,"Low Calorie, Low Sugar",9400,Medium
+26,23,M,82,179,Endurance,Running,High Carbs,10400,High
+27,18,F,50,155,Weight Loss,Cardio,Low Calorie,11500,Medium
+28,24,M,76,172,Fitness Maintenance,Cardio,Balanced Diet,7600,Low
+29,19,F,58,161,Weight Loss,Cardio + Yoga,Low Sugar,8700,Medium
+30,23,M,83,181,Muscle Gain,Strength Training,"High Protein, High Carbs",9200,High
+31,21,F,56,164,Endurance,Running,High Carbs,8600,Medium
+32,22,M,77,175,Weight Loss,Cardio + HIIT,High Protein,10200,High
+33,20,F,62,167,Fitness Maintenance,Yoga,Balanced Diet,8200,Medium
+34,24,M,84,180,Muscle Gain,Strength Training,"High Protein, Low Sugar",9000,Low
+35,20,F,55,159,Weight Loss,Cardio + Yoga,Low Calorie,9300,Medium
+36,23,M,80,178,Endurance,Running + Cardio,Balanced Diet,10800,High
+37,18,F,54,160,Weight Loss,Cardio,Low Sugar,9400,Medium
+38,21,M,70,172,Fitness Maintenance,Yoga + Flexibility,Balanced Diet,7700,Low
+39,25,F,60,166,Endurance,Running + Cardio,High Carbs,8800,Medium
+40,22,M,77,178,Weight Loss,Cardio + Yoga,Low Fat,9000,Medium
+41,21,F,54,162,Muscle Gain,Strength Training,High Protein,7500,High
+42,24,M,85,180,Endurance,Running,High Carbs,12000,Low
+43,20,F,52,158,Fitness Maintenance,Yoga,Low Sugar,5000,Medium
+44,19,M,70,165,Weight Loss,HIIT,Low Calorie,6800,High
+45,23,F,59,167,Endurance,Cardio + Strength,Balanced Diet,9500,Medium
+46,22,M,76,172,Muscle Gain,Strength + Flexibility,High Protein,8700,Medium
+47,25,F,66,165,Weight Loss,Running,Low Calorie,8800,High
+48,20,M,74,175,Fitness Maintenance,Cardio,Balanced Diet,5600,Low
+49,21,F,61,162,Muscle Gain,Yoga,High Protein,8400,Medium
+50,23,M,72,178,Endurance,Cardio + Yoga,High Carbs,9200,Medium
+51,19,F,55,158,Weight Loss,HIIT + Cardio,Low Fat,8100,High
+52,22,M,78,182,Fitness Maintenance,Strength Training,Balanced Diet,8800,Medium
+53,20,F,60,160,Endurance,Running,High Carbs,7500,Low
+54,24,M,83,180,Muscle Gain,Cardio + Flexibility,High Protein,9700,Medium
+55,19,F,56,155,Weight Loss,HIIT,Low Calorie,7200,High
+56,21,M,75,177,Endurance,Running,High Carbs,10400,Medium
+57,23,F,63,170,Fitness Maintenance,Yoga,Low Sugar,8600,Medium
+58,22,M,79,185,Muscle Gain,Strength,High Protein,11500,High
+59,20,F,58,160,Weight Loss,Cardio + Yoga,Low Calorie,6500,Medium
+60,19,M,68,172,Endurance,Cardio,Balanced Diet,7000,Low
+61,24,F,64,166,Weight Loss,HIIT + Strength,Low Fat,7800,Medium
+62,23,M,82,180,Muscle Gain,Strength Training,High Protein,9700,High
+63,21,F,59,160,Endurance,Running,High Carbs,8100,Medium
+64,20,M,73,170,Weight Loss,Cardio,Low Calorie,8900,Medium
+65,19,F,54,157,Fitness Maintenance,Yoga,Balanced Diet,5400,Low
+66,22,M,80,178,Muscle Gain,Strength + Flexibility,High Protein,10200,High
+67,25,F,62,168,Endurance,Running,High Carbs,8700,Medium
+68,21,M,78,175,Fitness Maintenance,Cardio,Balanced Diet,6900,Low
+69,23,F,60,162,Weight Loss,HIIT,Low Sugar,7300,Medium
+70,19,M,65,160,Endurance,Cardio + Yoga,High Carbs,8100,Medium
+71,20,F,58,155,Muscle Gain,Strength Training,High Protein,9000,High
+72,24,M,76,182,Endurance,Running,High Carbs,11500,Medium
+73,22,F,63,168,Weight Loss,Yoga,Low Fat,8600,Medium
+74,19,M,69,172,Fitness Maintenance,Cardio,Balanced Diet,7400,Low
+75,23,F,61,165,Muscle Gain,HIIT + Cardio,High Protein,8500,Medium
+76,21,M,81,180,Weight Loss,Cardio + Strength,Low Calorie,9900,Medium
+77,20,F,57,158,Endurance,Running,Low Sugar,8200,High
+78,22,M,74,175,Fitness Maintenance,Cardio + Yoga,Balanced Diet,9200,Medium
+79,24,F,66,170,Muscle Gain,Strength + Flexibility,High Protein,9600,High
+80,25,M,79,185,Endurance,Running,High Carbs,10500,Medium
+81,22,F,55,160,Weight Loss,Cardio + Yoga,Low Calorie,7800,Medium
+82,21,M,72,175,Endurance,Running,High Carbs,9500,High
+83,23,F,64,162,Muscle Gain,HIIT,High Protein,8700,Medium
+84,20,M,78,180,Fitness Maintenance,Cardio,Balanced Diet,6800,Low
+85,19,F,52,155,Weight Loss,Running,Low Sugar,7200,Medium
+86,25,M,80,185,Muscle Gain,Strength Training,High Protein,10300,High
+87,24,F,67,168,Endurance,Yoga,High Carbs,8200,Medium
+88,22,M,75,170,Weight Loss,Cardio + Strength,Low Calorie,9100,Medium
+89,20,F,58,158,Fitness Maintenance,Yoga,Balanced Diet,7600,Low
+90,23,M,84,182,Muscle Gain,Strength + Flexibility,High Protein,11200,Medium
+91,19,F,54,157,Endurance,Running,Low Fat,8400,Medium
+92,24,M,79,178,Fitness Maintenance,Cardio,Balanced Diet,7700,Low
+93,21,F,60,160,Weight Loss,HIIT + Cardio,Low Sugar,8100,Medium
+94,20,M,73,172,Endurance,Cardio,High Carbs,8800,High
+95,25,F,65,165,Muscle Gain,Strength,High Protein,8900,Medium
+96,23,M,77,180,Weight Loss,Cardio + Yoga,Low Calorie,9200,Medium
+97,22,F,59,163,Endurance,Yoga,Balanced Diet,8300,Low
+98,19,M,68,170,Fitness Maintenance,Cardio,High Carbs,7500,Medium
+99,24,F,62,158,Muscle Gain,Strength Training,High Protein,8600,High
+100,21,M,81,185,Endurance,Running,High Carbs,10700,Medium
